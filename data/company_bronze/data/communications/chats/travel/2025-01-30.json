@@ -1,0 +1,81 @@
+[
+  {
+    "type": "message",
+    "ts": "1737457800.951",
+    "user": {
+      "id": "E0106",
+      "name": "Jakub Brown",
+      "email": "jakub.brown@nordstar.example.com"
+    },
+    "text": "Is premium economy allowed for 7h flights?",
+    "reactions": [
+      {
+        "name": "ok_hand",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "ts": "1737459360.917",
+    "user": {
+      "id": "E0024",
+      "name": "Katarzyna Thompson",
+      "email": "katarzyna.thompson@nordstar.example.com"
+    },
+    "text": "Is premium economy allowed for 7h flights?",
+    "reactions": [
+      {
+        "name": "ok_hand",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "ts": "1737462300.280",
+    "user": {
+      "id": "E0076",
+      "name": "Sofia Wiśniewska",
+      "email": "sofia.wiśniewska@nordstar.example.com"
+    },
+    "text": "Meal per diem amounts for EU?",
+    "reactions": [
+      {
+        "name": "ok_hand",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "ts": "1737464580.796",
+    "user": {
+      "id": "E0032",
+      "name": "Łukasz Kowalski",
+      "email": "lukasz.kowalski@nordstar.example.com"
+    },
+    "text": "Are ride-shares reimbursable in Austin?"
+  },
+  {
+    "type": "message",
+    "ts": "1737466440.651",
+    "user": {
+      "id": "E0101",
+      "name": "Marcin Dąbrowska",
+      "email": "marcin.dąbrowska@nordstar.example.com"
+    },
+    "text": "Are ride-shares reimbursable in New York?"
+  },
+  {
+    "type": "message",
+    "ts": "1737469140.841",
+    "user": {
+      "id": "E0092",
+      "name": "Noah Davis",
+      "email": "noah.davis@nordstar.example.com"
+    },
+    "text": "Meal per diem amounts for EU?",
+    "thread_ts": "1737457800.951"
+  }
+]

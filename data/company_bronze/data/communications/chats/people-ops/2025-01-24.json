@@ -1,0 +1,52 @@
+[
+  {
+    "type": "message",
+    "ts": "1737195060.352",
+    "user": {
+      "id": "E0040",
+      "name": "Liam Wójcik",
+      "email": "liam.wójcik@nordstar.example.com"
+    },
+    "text": "Any guidance on part-time requests in Q1?"
+  },
+  {
+    "type": "message",
+    "ts": "1737196980.175",
+    "user": {
+      "id": "E0020",
+      "name": "Łukasz Harris",
+      "email": "lukasz.harris@nordstar.example.com"
+    },
+    "text": "Mentoring program signups close Friday."
+  },
+  {
+    "type": "message",
+    "ts": "1737198120.113",
+    "user": {
+      "id": "E0039",
+      "name": "Tomasz Harris",
+      "email": "tomasz.harris@nordstar.example.com"
+    },
+    "text": "Any guidance on part-time requests in Q1?"
+  },
+  {
+    "type": "message",
+    "ts": "1737200280.734",
+    "user": {
+      "id": "E0033",
+      "name": "Piotr Wiśniewska",
+      "email": "piotr.wiśniewska@nordstar.example.com"
+    },
+    "text": "Upcoming pulse survey — watch HRIS inbox."
+  },
+  {
+    "type": "message",
+    "ts": "1737201600.317",
+    "user": {
+      "id": "E0101",
+      "name": "Marcin Dąbrowska",
+      "email": "marcin.dąbrowska@nordstar.example.com"
+    },
+    "text": "Upcoming pulse survey — watch HRIS inbox."
+  }
+]

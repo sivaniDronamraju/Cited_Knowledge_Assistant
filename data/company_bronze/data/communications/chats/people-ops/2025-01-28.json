@@ -1,0 +1,69 @@
+[
+  {
+    "type": "message",
+    "ts": "1737374040.979",
+    "user": {
+      "id": "E0089",
+      "name": "Noah Jones",
+      "email": "noah.jones@nordstar.example.com"
+    },
+    "text": "Upcoming pulse survey — watch HRIS inbox."
+  },
+  {
+    "type": "message",
+    "ts": "1737376440.597",
+    "user": {
+      "id": "E0085",
+      "name": "Ewa Garcia",
+      "email": "ewa.garcia@nordstar.example.com"
+    },
+    "text": "Any guidance on part-time requests in Q1?"
+  },
+  {
+    "type": "message",
+    "ts": "1737379380.794",
+    "user": {
+      "id": "E0105",
+      "name": "Jakub Wiśniewska",
+      "email": "jakub.wiśniewska@nordstar.example.com"
+    },
+    "text": "Upcoming pulse survey — watch HRIS inbox."
+  },
+  {
+    "type": "message",
+    "ts": "1737381960.516",
+    "user": {
+      "id": "E0010",
+      "name": "Krzysztof Lewandowski",
+      "email": "krzysztof.lewandowski@nordstar.example.com"
+    },
+    "text": "Upcoming pulse survey — watch HRIS inbox."
+  },
+  {
+    "type": "message",
+    "ts": "1737384480.223",
+    "user": {
+      "id": "E0075",
+      "name": "Katarzyna Garcia",
+      "email": "katarzyna.garcia@nordstar.example.com"
+    },
+    "text": "Upcoming pulse survey — watch HRIS inbox.",
+    "thread_ts": "1737374040.979"
+  },
+  {
+    "type": "message",
+    "ts": "1737387180.456",
+    "user": {
+      "id": "E0024",
+      "name": "Katarzyna Thompson",
+      "email": "katarzyna.thompson@nordstar.example.com"
+    },
+    "text": "Any guidance on part-time requests in Q1?",
+    "reactions": [
+      {
+        "name": "thumbsup",
+        "count": 3
+      }
+    ]
+  }
+]

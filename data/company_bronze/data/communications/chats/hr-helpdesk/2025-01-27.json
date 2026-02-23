@@ -1,0 +1,44 @@
+[
+  {
+    "type": "message",
+    "ts": "1737305400.635",
+    "user": {
+      "id": "E0024",
+      "name": "Katarzyna Thompson",
+      "email": "katarzyna.thompson@nordstar.example.com"
+    },
+    "text": "Is training X mandatory for contractors?"
+  },
+  {
+    "type": "message",
+    "ts": "1737308160.162",
+    "user": {
+      "id": "E0112",
+      "name": "Katarzyna Dąbrowska",
+      "email": "katarzyna.dąbrowska@nordstar.example.com"
+    },
+    "text": "How to log parental leave in HRIS?",
+    "thread_ts": "1737305400.635"
+  },
+  {
+    "type": "message",
+    "ts": "1737311100.455",
+    "user": {
+      "id": "E0086",
+      "name": "Ola Davis",
+      "email": "ola.davis@nordstar.example.com"
+    },
+    "text": "How to log parental leave in HRIS?"
+  },
+  {
+    "type": "message",
+    "ts": "1737313980.378",
+    "user": {
+      "id": "E0113",
+      "name": "Zuzanna Miller",
+      "email": "zuzanna.miller@nordstar.example.com"
+    },
+    "text": "Where is the Code of Conduct acknowledgement?",
+    "thread_ts": "1737305400.635"
+  }
+]

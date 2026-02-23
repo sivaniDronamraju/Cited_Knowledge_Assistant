@@ -1,0 +1,85 @@
+[
+  {
+    "type": "message",
+    "ts": "1737442740.399",
+    "user": {
+      "id": "E0012",
+      "name": "Ola Kowalski",
+      "email": "ola.kowalski@nordstar.example.com"
+    },
+    "text": "Phishing simulation results for dept IT?"
+  },
+  {
+    "type": "message",
+    "ts": "1737444420.459",
+    "user": {
+      "id": "E0108",
+      "name": "Marcin Wiśniewska",
+      "email": "marcin.wiśniewska@nordstar.example.com"
+    },
+    "text": "Requesting temporary admin for maintenance window."
+  },
+  {
+    "type": "message",
+    "ts": "1737447420.851",
+    "user": {
+      "id": "E0118",
+      "name": "Ava Williams",
+      "email": "ava.williams@nordstar.example.com"
+    },
+    "text": "Phishing simulation results for dept HR?"
+  },
+  {
+    "type": "message",
+    "ts": "1737450060.502",
+    "user": {
+      "id": "E0043",
+      "name": "Olivia Kowalski",
+      "email": "olivia.kowalski@nordstar.example.com"
+    },
+    "text": "Report: suspicious email received, header attached.",
+    "thread_ts": "1737442740.399"
+  },
+  {
+    "type": "message",
+    "ts": "1737452760.772",
+    "user": {
+      "id": "E0096",
+      "name": "Paweł Martinez",
+      "email": "pawel.martinez@nordstar.example.com"
+    },
+    "text": "Requesting temporary admin for maintenance window.",
+    "reactions": [
+      {
+        "name": "eyes",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "ts": "1737454740.439",
+    "user": {
+      "id": "E0105",
+      "name": "Jakub Wiśniewska",
+      "email": "jakub.wiśniewska@nordstar.example.com"
+    },
+    "text": "Device NS-676344 last check-in time?",
+    "reactions": [
+      {
+        "name": "question",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "ts": "1737456480.521",
+    "user": {
+      "id": "E0100",
+      "name": "Katarzyna Wilson",
+      "email": "katarzyna.wilson@nordstar.example.com"
+    },
+    "text": "Report: suspicious email received, header attached."
+  }
+]

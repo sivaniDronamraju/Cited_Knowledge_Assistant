@@ -1,0 +1,96 @@
+[
+  {
+    "type": "message",
+    "ts": "1736990640.892",
+    "user": {
+      "id": "E0094",
+      "name": "Beata Lewandowski",
+      "email": "beata.lewandowski@nordstar.example.com"
+    },
+    "text": "Is training X mandatory for contractors?"
+  },
+  {
+    "type": "message",
+    "ts": "1736993940.331",
+    "user": {
+      "id": "E0092",
+      "name": "Noah Davis",
+      "email": "noah.davis@nordstar.example.com"
+    },
+    "text": "Is training X mandatory for contractors?",
+    "thread_ts": "1736990640.892"
+  },
+  {
+    "type": "message",
+    "ts": "1736994960.459",
+    "user": {
+      "id": "E0071",
+      "name": "Łukasz Dąbrowska",
+      "email": "lukasz.dąbrowska@nordstar.example.com"
+    },
+    "text": "How to log parental leave in HRIS?"
+  },
+  {
+    "type": "message",
+    "ts": "1736997720.795",
+    "user": {
+      "id": "E0015",
+      "name": "Mateusz Lewandowski",
+      "email": "mateusz.lewandowski@nordstar.example.com"
+    },
+    "text": "Is training X mandatory for contractors?"
+  },
+  {
+    "type": "message",
+    "ts": "1736999880.252",
+    "user": {
+      "id": "E0007",
+      "name": "Noah Nowak",
+      "email": "noah.nowak@nordstar.example.com"
+    },
+    "text": "How to log parental leave in HRIS?"
+  },
+  {
+    "type": "message",
+    "ts": "1737002220.354",
+    "user": {
+      "id": "E0067",
+      "name": "Piotr Smith",
+      "email": "piotr.smith@nordstar.example.com"
+    },
+    "text": "Is training X mandatory for contractors?",
+    "thread_ts": "1736990640.892"
+  },
+  {
+    "type": "message",
+    "ts": "1737005460.293",
+    "user": {
+      "id": "E0019",
+      "name": "Amelia White",
+      "email": "amelia.white@nordstar.example.com"
+    },
+    "text": "Question about leave carryover in UK."
+  },
+  {
+    "type": "message",
+    "ts": "1737007380.951",
+    "user": {
+      "id": "E0070",
+      "name": "Krzysztof Martin",
+      "email": "krzysztof.martin@nordstar.example.com"
+    },
+    "text": "How to log parental leave in HRIS?",
+    "thread_ts": "1736990640.892"
+  },
+  {
+    "type": "message",
+    "ts": "1737010500.444",
+    "user": {
+      "id": "E0028",
+      "name": "Ewa Lewandowski",
+      "email": "ewa.lewandowski@nordstar.example.com"
+    },
+    "text": "Where is the Code of Conduct acknowledgement?",
+    "thread_ts": "1736990640.892"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "type": "message",
+    "ts": "1737092940.347",
+    "user": {
+      "id": "E0015",
+      "name": "Mateusz Lewandowski",
+      "email": "mateusz.lewandowski@nordstar.example.com"
+    },
+    "text": "Upcoming pulse survey — watch HRIS inbox."
+  },
+  {
+    "type": "message",
+    "ts": "1737094800.911",
+    "user": {
+      "id": "E0039",
+      "name": "Tomasz Harris",
+      "email": "tomasz.harris@nordstar.example.com"
+    },
+    "text": "Any guidance on part-time requests in Q1?",
+    "thread_ts": "1737092940.347"
+  },
+  {
+    "type": "message",
+    "ts": "1737096360.844",
+    "user": {
+      "id": "E0071",
+      "name": "Łukasz Dąbrowska",
+      "email": "lukasz.dąbrowska@nordstar.example.com"
+    },
+    "text": "Upcoming pulse survey — watch HRIS inbox."
+  },
+  {
+    "type": "message",
+    "ts": "1737097500.694",
+    "user": {
+      "id": "E0049",
+      "name": "Marta Kamińska",
+      "email": "marta.kamińska@nordstar.example.com"
+    },
+    "text": "Compressed workweek pilots update: week 1.",
+    "thread_ts": "1737092940.347"
+  },
+  {
+    "type": "message",
+    "ts": "1737099360.549",
+    "user": {
+      "id": "E0082",
+      "name": "Magda Brown",
+      "email": "magda.brown@nordstar.example.com"
+    },
+    "text": "Mentoring program signups close Friday."
+  }
+]

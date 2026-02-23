@@ -1,0 +1,23 @@
+[
+  {
+    "type": "message",
+    "ts": "1737204660.344",
+    "user": {
+      "id": "E0090",
+      "name": "Emma Davis",
+      "email": "emma.davis@nordstar.example.com"
+    },
+    "text": "Welcome our new joiners in Manchester!"
+  },
+  {
+    "type": "message",
+    "ts": "1737205920.153",
+    "user": {
+      "id": "E0033",
+      "name": "Piotr Wiśniewska",
+      "email": "piotr.wiśniewska@nordstar.example.com"
+    },
+    "text": "Town Hall slides will be posted after the session.",
+    "thread_ts": "1737204660.344"
+  }
+]

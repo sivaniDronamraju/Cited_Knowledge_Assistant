@@ -1,0 +1,69 @@
+[
+  {
+    "type": "message",
+    "ts": "1737134820.318",
+    "user": {
+      "id": "E0001",
+      "name": "Sofia Wójcik",
+      "email": "sofia.wójcik@nordstar.example.com"
+    },
+    "text": "Hotel cap for Krakow during conference?"
+  },
+  {
+    "type": "message",
+    "ts": "1737136320.181",
+    "user": {
+      "id": "E0069",
+      "name": "Olivia Rodriguez",
+      "email": "olivia.rodriguez@nordstar.example.com"
+    },
+    "text": "Meal per diem amounts for UK?"
+  },
+  {
+    "type": "message",
+    "ts": "1737138000.972",
+    "user": {
+      "id": "E0044",
+      "name": "Magda Nowak",
+      "email": "magda.nowak@nordstar.example.com"
+    },
+    "text": "Are ride-shares reimbursable in Berlin?",
+    "reactions": [
+      {
+        "name": "question",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "ts": "1737141060.899",
+    "user": {
+      "id": "E0086",
+      "name": "Ola Davis",
+      "email": "ola.davis@nordstar.example.com"
+    },
+    "text": "Hotel cap for New York during conference?",
+    "thread_ts": "1737134820.318"
+  },
+  {
+    "type": "message",
+    "ts": "1737142980.234",
+    "user": {
+      "id": "E0040",
+      "name": "Liam Wójcik",
+      "email": "liam.wójcik@nordstar.example.com"
+    },
+    "text": "Are ride-shares reimbursable in London?"
+  },
+  {
+    "type": "message",
+    "ts": "1737145860.881",
+    "user": {
+      "id": "E0043",
+      "name": "Olivia Kowalski",
+      "email": "olivia.kowalski@nordstar.example.com"
+    },
+    "text": "Are ride-shares reimbursable in New York?"
+  }
+]

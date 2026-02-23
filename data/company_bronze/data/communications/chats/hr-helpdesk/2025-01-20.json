@@ -1,0 +1,100 @@
+[
+  {
+    "type": "message",
+    "ts": "1736928000.602",
+    "user": {
+      "id": "E0048",
+      "name": "Paweł White",
+      "email": "pawel.white@nordstar.example.com"
+    },
+    "text": "Where is the Code of Conduct acknowledgement?"
+  },
+  {
+    "type": "message",
+    "ts": "1736931360.749",
+    "user": {
+      "id": "E0045",
+      "name": "Beata Mazur",
+      "email": "beata.mazur@nordstar.example.com"
+    },
+    "text": "Is training X mandatory for contractors?"
+  },
+  {
+    "type": "message",
+    "ts": "1736934300.576",
+    "user": {
+      "id": "E0012",
+      "name": "Ola Kowalski",
+      "email": "ola.kowalski@nordstar.example.com"
+    },
+    "text": "How to log parental leave in HRIS?"
+  },
+  {
+    "type": "message",
+    "ts": "1736936700.814",
+    "user": {
+      "id": "E0024",
+      "name": "Katarzyna Thompson",
+      "email": "katarzyna.thompson@nordstar.example.com"
+    },
+    "text": "Question about leave carryover in US."
+  },
+  {
+    "type": "message",
+    "ts": "1736939820.672",
+    "user": {
+      "id": "E0081",
+      "name": "Liam Johnson",
+      "email": "liam.johnson@nordstar.example.com"
+    },
+    "text": "Is training X mandatory for contractors?",
+    "thread_ts": "1736928000.602"
+  },
+  {
+    "type": "message",
+    "ts": "1736941020.338",
+    "user": {
+      "id": "E0051",
+      "name": "Marcin Smith",
+      "email": "marcin.smith@nordstar.example.com"
+    },
+    "text": "Is training X mandatory for contractors?",
+    "thread_ts": "1736928000.602"
+  },
+  {
+    "type": "message",
+    "ts": "1736944080.954",
+    "user": {
+      "id": "E0064",
+      "name": "Marcin Martinez",
+      "email": "marcin.martinez@nordstar.example.com"
+    },
+    "text": "How to log parental leave in HRIS?"
+  },
+  {
+    "type": "message",
+    "ts": "1736946720.391",
+    "user": {
+      "id": "E0069",
+      "name": "Olivia Rodriguez",
+      "email": "olivia.rodriguez@nordstar.example.com"
+    },
+    "text": "Question about leave carryover in US."
+  },
+  {
+    "type": "message",
+    "ts": "1736948160.106",
+    "user": {
+      "id": "E0104",
+      "name": "Anna Nowak",
+      "email": "anna.nowak@nordstar.example.com"
+    },
+    "text": "Is training X mandatory for contractors?",
+    "reactions": [
+      {
+        "name": "thumbsup",
+        "count": 2
+      }
+    ]
+  }
+]

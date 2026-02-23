@@ -1,0 +1,33 @@
+[
+  {
+    "type": "message",
+    "ts": "1737506880.881",
+    "user": {
+      "id": "E0023",
+      "name": "Anna Rodriguez",
+      "email": "anna.rodriguez@nordstar.example.com"
+    },
+    "text": "Device NS-816890 last check-in time?"
+  },
+  {
+    "type": "message",
+    "ts": "1737508620.195",
+    "user": {
+      "id": "E0098",
+      "name": "Ola Wilson",
+      "email": "ola.wilson@nordstar.example.com"
+    },
+    "text": "Requesting temporary admin for maintenance window.",
+    "thread_ts": "1737506880.881"
+  },
+  {
+    "type": "message",
+    "ts": "1737510720.489",
+    "user": {
+      "id": "E0003",
+      "name": "Adam Kowalska",
+      "email": "adam.kowalska@nordstar.example.com"
+    },
+    "text": "Device NS-620437 last check-in time?"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "type": "message",
+    "ts": "1737042960.347",
+    "user": {
+      "id": "E0075",
+      "name": "Katarzyna Garcia",
+      "email": "katarzyna.garcia@nordstar.example.com"
+    },
+    "text": "Reminder: update your goals by end of month."
+  },
+  {
+    "type": "message",
+    "ts": "1737044700.302",
+    "user": {
+      "id": "E0003",
+      "name": "Adam Kowalska",
+      "email": "adam.kowalska@nordstar.example.com"
+    },
+    "text": "Submit Q&A by EOD today.",
+    "thread_ts": "1737042960.347"
+  },
+  {
+    "type": "message",
+    "ts": "1737047820.869",
+    "user": {
+      "id": "E0072",
+      "name": "Krzysztof Thomas",
+      "email": "krzysztof.thomas@nordstar.example.com"
+    },
+    "text": "Town Hall slides will be posted after the session.",
+    "thread_ts": "1737042960.347"
+  },
+  {
+    "type": "message",
+    "ts": "1737050280.375",
+    "user": {
+      "id": "E0089",
+      "name": "Noah Jones",
+      "email": "noah.jones@nordstar.example.com"
+    },
+    "text": "Welcome our new joiners in Manchester!",
+    "reactions": [
+      {
+        "name": "eyes",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "ts": "1737052620.562",
+    "user": {
+      "id": "E0049",
+      "name": "Marta Kamińska",
+      "email": "marta.kamińska@nordstar.example.com"
+    },
+    "text": "Town Hall slides will be posted after the session.",
+    "thread_ts": "1737042960.347"
+  },
+  {
+    "type": "message",
+    "ts": "1737055140.892",
+    "user": {
+      "id": "E0056",
+      "name": "Zuzanna Davis",
+      "email": "zuzanna.davis@nordstar.example.com"
+    },
+    "text": "Reminder: update your goals by end of month.",
+    "thread_ts": "1737042960.347"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "type": "message",
+    "ts": "1737108840.812",
+    "user": {
+      "id": "E0042",
+      "name": "Ethan Moore",
+      "email": "ethan.moore@nordstar.example.com"
+    },
+    "text": "Is training X mandatory for contractors?",
+    "reactions": [
+      {
+        "name": "thumbsup",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "ts": "1737111540.219",
+    "user": {
+      "id": "E0065",
+      "name": "Marcin Jones",
+      "email": "marcin.jones@nordstar.example.com"
+    },
+    "text": "Question about leave carryover in UK.",
+    "reactions": [
+      {
+        "name": "question",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "ts": "1737113100.811",
+    "user": {
+      "id": "E0046",
+      "name": "Olivia Davis",
+      "email": "olivia.davis@nordstar.example.com"
+    },
+    "text": "Question about leave carryover in UK."
+  },
+  {
+    "type": "message",
+    "ts": "1737115920.491",
+    "user": {
+      "id": "E0075",
+      "name": "Katarzyna Garcia",
+      "email": "katarzyna.garcia@nordstar.example.com"
+    },
+    "text": "Where is the Code of Conduct acknowledgement?"
+  },
+  {
+    "type": "message",
+    "ts": "1737118800.247",
+    "user": {
+      "id": "E0013",
+      "name": "Krzysztof Johnson",
+      "email": "krzysztof.johnson@nordstar.example.com"
+    },
+    "text": "Is training X mandatory for contractors?",
+    "thread_ts": "1737108840.812"
+  }
+]

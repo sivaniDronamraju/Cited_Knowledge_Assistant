@@ -1,0 +1,63 @@
+[
+  {
+    "type": "message",
+    "ts": "1737415500.819",
+    "user": {
+      "id": "E0091",
+      "name": "Mateusz Martinez",
+      "email": "mateusz.martinez@nordstar.example.com"
+    },
+    "text": "Mentoring program signups close Friday."
+  },
+  {
+    "type": "message",
+    "ts": "1737417780.250",
+    "user": {
+      "id": "E0026",
+      "name": "Michał Brown",
+      "email": "michal.brown@nordstar.example.com"
+    },
+    "text": "Mentoring program signups close Friday."
+  },
+  {
+    "type": "message",
+    "ts": "1737419280.623",
+    "user": {
+      "id": "E0106",
+      "name": "Jakub Brown",
+      "email": "jakub.brown@nordstar.example.com"
+    },
+    "text": "Upcoming pulse survey — watch HRIS inbox."
+  },
+  {
+    "type": "message",
+    "ts": "1737421740.463",
+    "user": {
+      "id": "E0115",
+      "name": "Anna Mazur",
+      "email": "anna.mazur@nordstar.example.com"
+    },
+    "text": "Mentoring program signups close Friday."
+  },
+  {
+    "type": "message",
+    "ts": "1737423780.669",
+    "user": {
+      "id": "E0032",
+      "name": "Łukasz Kowalski",
+      "email": "lukasz.kowalski@nordstar.example.com"
+    },
+    "text": "Mentoring program signups close Friday."
+  },
+  {
+    "type": "message",
+    "ts": "1737425100.621",
+    "user": {
+      "id": "E0117",
+      "name": "Noah Dąbrowska",
+      "email": "noah.dąbrowska@nordstar.example.com"
+    },
+    "text": "Any guidance on part-time requests in Q1?",
+    "thread_ts": "1737415500.819"
+  }
+]

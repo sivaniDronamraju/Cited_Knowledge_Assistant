@@ -1,0 +1,93 @@
+[
+  {
+    "type": "message",
+    "ts": "1737770400.100",
+    "user": {
+      "id": "E0034",
+      "name": "Ewa Nowak",
+      "email": "ewa.nowak@nordstar.example.com"
+    },
+    "text": "Reminder: no first-class rail reimbursements; standard class only unless pre-approved."
+  },
+  {
+    "type": "message",
+    "ts": "1737770465.110",
+    "user": {
+      "id": "E0071",
+      "name": "Łukasz Dąbrowska",
+      "email": "lukasz.dąbrowska@nordstar.example.com"
+    },
+    "text": "Is premium economy allowed on >6h flights?",
+    "thread_ts": "1737770400.100"
+  },
+  {
+    "type": "message",
+    "ts": "1737770525.220",
+    "user": {
+      "id": "E0002",
+      "name": "Ethan Davis",
+      "email": "ethan.davis@nordstar.example.com"
+    },
+    "text": "Yes, for >6h flights; document the flight duration in the report.",
+    "thread_ts": "1737770400.100"
+  },
+  {
+    "type": "message",
+    "ts": "1737403680.997",
+    "user": {
+      "id": "E0094",
+      "name": "Beata Lewandowski",
+      "email": "beata.lewandowski@nordstar.example.com"
+    },
+    "text": "Meal per diem amounts for UK?",
+    "reactions": [
+      {
+        "name": "eyes",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "ts": "1737405360.169",
+    "user": {
+      "id": "E0020",
+      "name": "Łukasz Harris",
+      "email": "lukasz.harris@nordstar.example.com"
+    },
+    "text": "Are ride-shares reimbursable in Gdansk?",
+    "thread_ts": "1737403680.997"
+  },
+  {
+    "type": "message",
+    "ts": "1737407400.333",
+    "user": {
+      "id": "E0089",
+      "name": "Noah Jones",
+      "email": "noah.jones@nordstar.example.com"
+    },
+    "text": "Meal per diem amounts for EU?",
+    "thread_ts": "1737403680.997"
+  },
+  {
+    "type": "message",
+    "ts": "1737409920.184",
+    "user": {
+      "id": "E0056",
+      "name": "Zuzanna Davis",
+      "email": "zuzanna.davis@nordstar.example.com"
+    },
+    "text": "Are ride-shares reimbursable in Gdansk?",
+    "thread_ts": "1737403680.997"
+  },
+  {
+    "type": "message",
+    "ts": "1737412260.311",
+    "user": {
+      "id": "E0072",
+      "name": "Krzysztof Thomas",
+      "email": "krzysztof.thomas@nordstar.example.com"
+    },
+    "text": "Is premium economy allowed for 7h flights?"
+  }
+]

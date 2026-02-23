@@ -1,0 +1,33 @@
+[
+  {
+    "type": "message",
+    "ts": "1737086400.997",
+    "user": {
+      "id": "E0038",
+      "name": "Julia Miller",
+      "email": "julia.miller@nordstar.example.com"
+    },
+    "text": "Meal per diem amounts for EU?"
+  },
+  {
+    "type": "message",
+    "ts": "1737087660.167",
+    "user": {
+      "id": "E0012",
+      "name": "Ola Kowalski",
+      "email": "ola.kowalski@nordstar.example.com"
+    },
+    "text": "Meal per diem amounts for UK?",
+    "thread_ts": "1737086400.997"
+  },
+  {
+    "type": "message",
+    "ts": "1737090660.102",
+    "user": {
+      "id": "E0036",
+      "name": "Julia Wilson",
+      "email": "julia.wilson@nordstar.example.com"
+    },
+    "text": "Are ride-shares reimbursable in Krakow?"
+  }
+]

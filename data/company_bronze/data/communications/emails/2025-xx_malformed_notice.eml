@@ -1,0 +1,6 @@
+From: alerts@nordstar.example.com
+To: sofia.martin@nordstar.example.com
+Subject: ALERT
+X-Unknown-Header: 
+
+This message has missing standard headers. Treat as malformed sample.

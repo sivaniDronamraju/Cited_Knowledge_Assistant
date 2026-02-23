@@ -1,0 +1,22 @@
+[
+  {
+    "type": "message",
+    "ts": "1737398460.148",
+    "user": {
+      "id": "E0028",
+      "name": "Ewa Lewandowski",
+      "email": "ewa.lewandowski@nordstar.example.com"
+    },
+    "text": "Report: suspicious email received, header attached."
+  },
+  {
+    "type": "message",
+    "ts": "1737401700.720",
+    "user": {
+      "id": "E0115",
+      "name": "Anna Mazur",
+      "email": "anna.mazur@nordstar.example.com"
+    },
+    "text": "Phishing simulation results for dept HR?"
+  }
+]

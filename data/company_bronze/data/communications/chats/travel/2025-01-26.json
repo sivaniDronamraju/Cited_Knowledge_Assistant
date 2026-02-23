@@ -1,0 +1,61 @@
+[
+  {
+    "type": "message",
+    "ts": "1737270480.547",
+    "user": {
+      "id": "E0111",
+      "name": "Łukasz Wójcik",
+      "email": "lukasz.wójcik@nordstar.example.com"
+    },
+    "text": "Hotel cap for Warsaw during conference?"
+  },
+  {
+    "type": "message",
+    "ts": "1737272820.725",
+    "user": {
+      "id": "E0105",
+      "name": "Jakub Wiśniewska",
+      "email": "jakub.wiśniewska@nordstar.example.com"
+    },
+    "text": "Meal per diem amounts for US?",
+    "thread_ts": "1737270480.547",
+    "reactions": [
+      {
+        "name": "thumbsup",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "ts": "1737275340.966",
+    "user": {
+      "id": "E0078",
+      "name": "Emma Anderson",
+      "email": "emma.anderson@nordstar.example.com"
+    },
+    "text": "Hotel cap for New York during conference?",
+    "thread_ts": "1737270480.547"
+  },
+  {
+    "type": "message",
+    "ts": "1737278160.648",
+    "user": {
+      "id": "E0065",
+      "name": "Marcin Jones",
+      "email": "marcin.jones@nordstar.example.com"
+    },
+    "text": "Is premium economy allowed for 7h flights?",
+    "thread_ts": "1737270480.547"
+  },
+  {
+    "type": "message",
+    "ts": "1737280680.744",
+    "user": {
+      "id": "E0023",
+      "name": "Anna Rodriguez",
+      "email": "anna.rodriguez@nordstar.example.com"
+    },
+    "text": "Meal per diem amounts for EU?"
+  }
+]

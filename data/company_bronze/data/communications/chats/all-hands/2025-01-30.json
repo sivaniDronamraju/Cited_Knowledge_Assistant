@@ -1,0 +1,70 @@
+[
+  {
+    "type": "message",
+    "ts": "1737486600.556",
+    "user": {
+      "id": "E0044",
+      "name": "Magda Nowak",
+      "email": "magda.nowak@nordstar.example.com"
+    },
+    "text": "Welcome our new joiners in Manchester!"
+  },
+  {
+    "type": "message",
+    "ts": "1737489360.268",
+    "user": {
+      "id": "E0114",
+      "name": "Julia Moore",
+      "email": "julia.moore@nordstar.example.com"
+    },
+    "text": "Welcome our new joiners in London!"
+  },
+  {
+    "type": "message",
+    "ts": "1737492120.332",
+    "user": {
+      "id": "E0035",
+      "name": "Adam Wiśniewska",
+      "email": "adam.wiśniewska@nordstar.example.com"
+    },
+    "text": "Welcome our new joiners in Paris!"
+  },
+  {
+    "type": "message",
+    "ts": "1737493140.588",
+    "user": {
+      "id": "E0063",
+      "name": "Beata Davis",
+      "email": "beata.davis@nordstar.example.com"
+    },
+    "text": "Reminder: update your goals by end of month.",
+    "thread_ts": "1737486600.556"
+  },
+  {
+    "type": "message",
+    "ts": "1737495300.367",
+    "user": {
+      "id": "E0090",
+      "name": "Emma Davis",
+      "email": "emma.davis@nordstar.example.com"
+    },
+    "text": "Reminder: update your goals by end of month.",
+    "thread_ts": "1737486600.556",
+    "reactions": [
+      {
+        "name": "thumbsup",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "ts": "1737497760.912",
+    "user": {
+      "id": "E0051",
+      "name": "Marcin Smith",
+      "email": "marcin.smith@nordstar.example.com"
+    },
+    "text": "Submit Q&A by EOD today."
+  }
+]

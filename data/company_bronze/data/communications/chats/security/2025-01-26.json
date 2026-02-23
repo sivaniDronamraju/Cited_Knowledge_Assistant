@@ -1,0 +1,48 @@
+[
+  {
+    "type": "message",
+    "ts": "1737260340.561",
+    "user": {
+      "id": "E0081",
+      "name": "Liam Johnson",
+      "email": "liam.johnson@nordstar.example.com"
+    },
+    "text": "Device NS-691135 last check-in time?"
+  },
+  {
+    "type": "message",
+    "ts": "1737263700.329",
+    "user": {
+      "id": "E0071",
+      "name": "Łukasz Dąbrowska",
+      "email": "lukasz.dąbrowska@nordstar.example.com"
+    },
+    "text": "Report: suspicious email received, header attached."
+  },
+  {
+    "type": "message",
+    "ts": "1737264900.470",
+    "user": {
+      "id": "E0007",
+      "name": "Noah Nowak",
+      "email": "noah.nowak@nordstar.example.com"
+    },
+    "text": "Report: suspicious email received, header attached."
+  },
+  {
+    "type": "message",
+    "ts": "1737267600.483",
+    "user": {
+      "id": "E0004",
+      "name": "Anna Jackson",
+      "email": "anna.jackson@nordstar.example.com"
+    },
+    "text": "Device NS-290433 last check-in time?",
+    "reactions": [
+      {
+        "name": "thumbsup",
+        "count": 2
+      }
+    ]
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "type": "message",
+    "ts": "1736950020.159",
+    "user": {
+      "id": "E0057",
+      "name": "Ewa Martinez",
+      "email": "ewa.martinez@nordstar.example.com"
+    },
+    "text": "Report: suspicious email received, header attached."
+  },
+  {
+    "type": "message",
+    "ts": "1736952420.135",
+    "user": {
+      "id": "E0005",
+      "name": "Krzysztof Wójcik",
+      "email": "krzysztof.wójcik@nordstar.example.com"
+    },
+    "text": "Requesting temporary admin for maintenance window.",
+    "thread_ts": "1736950020.159",
+    "reactions": [
+      {
+        "name": "thumbsup",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "ts": "1736953920.738",
+    "user": {
+      "id": "E0034",
+      "name": "Ewa Nowak",
+      "email": "ewa.nowak@nordstar.example.com"
+    },
+    "text": "Device NS-678610 last check-in time?"
+  },
+  {
+    "type": "message",
+    "ts": "1736955660.957",
+    "user": {
+      "id": "E0074",
+      "name": "Julia Jones",
+      "email": "julia.jones@nordstar.example.com"
+    },
+    "text": "Device NS-399519 last check-in time?"
+  },
+  {
+    "type": "message",
+    "ts": "1736958540.723",
+    "user": {
+      "id": "E0031",
+      "name": "Ava Jones",
+      "email": "ava.jones@nordstar.example.com"
+    },
+    "text": "Requesting temporary admin for maintenance window.",
+    "thread_ts": "1736950020.159"
+  },
+  {
+    "type": "message",
+    "ts": "1736960580.453",
+    "user": {
+      "id": "E0062",
+      "name": "Krzysztof Dąbrowska",
+      "email": "krzysztof.dąbrowska@nordstar.example.com"
+    },
+    "text": "Report: suspicious email received, header attached."
+  },
+  {
+    "type": "message",
+    "ts": "1736963160.154",
+    "user": {
+      "id": "E0092",
+      "name": "Noah Davis",
+      "email": "noah.davis@nordstar.example.com"
+    },
+    "text": "Report: suspicious email received, header attached."
+  }
+]

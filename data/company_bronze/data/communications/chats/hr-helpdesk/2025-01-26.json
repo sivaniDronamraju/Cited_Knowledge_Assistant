@@ -1,0 +1,49 @@
+[
+  {
+    "type": "message",
+    "ts": "1737254340.917",
+    "user": {
+      "id": "E0026",
+      "name": "Michał Brown",
+      "email": "michal.brown@nordstar.example.com"
+    },
+    "text": "Question about leave carryover in US.",
+    "reactions": [
+      {
+        "name": "thumbsup",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "ts": "1737256020.392",
+    "user": {
+      "id": "E0001",
+      "name": "Sofia Wójcik",
+      "email": "sofia.wójcik@nordstar.example.com"
+    },
+    "text": "Where is the Code of Conduct acknowledgement?"
+  },
+  {
+    "type": "message",
+    "ts": "1737257820.779",
+    "user": {
+      "id": "E0096",
+      "name": "Paweł Martinez",
+      "email": "pawel.martinez@nordstar.example.com"
+    },
+    "text": "Is training X mandatory for contractors?"
+  },
+  {
+    "type": "message",
+    "ts": "1737259020.983",
+    "user": {
+      "id": "E0081",
+      "name": "Liam Johnson",
+      "email": "liam.johnson@nordstar.example.com"
+    },
+    "text": "How to log parental leave in HRIS?",
+    "thread_ts": "1737254340.917"
+  }
+]

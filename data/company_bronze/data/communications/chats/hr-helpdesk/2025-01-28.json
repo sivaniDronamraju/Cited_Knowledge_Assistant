@@ -1,0 +1,50 @@
+[
+  {
+    "type": "message",
+    "ts": "1737347880.978",
+    "user": {
+      "id": "E0058",
+      "name": "Jakub Martinez",
+      "email": "jakub.martinez@nordstar.example.com"
+    },
+    "text": "Where is the Code of Conduct acknowledgement?"
+  },
+  {
+    "type": "message",
+    "ts": "1737350820.223",
+    "user": {
+      "id": "E0104",
+      "name": "Anna Nowak",
+      "email": "anna.nowak@nordstar.example.com"
+    },
+    "text": "Where is the Code of Conduct acknowledgement?",
+    "thread_ts": "1737347880.978"
+  },
+  {
+    "type": "message",
+    "ts": "1737353220.542",
+    "user": {
+      "id": "E0051",
+      "name": "Marcin Smith",
+      "email": "marcin.smith@nordstar.example.com"
+    },
+    "text": "Where is the Code of Conduct acknowledgement?"
+  },
+  {
+    "type": "message",
+    "ts": "1737356460.356",
+    "user": {
+      "id": "E0118",
+      "name": "Ava Williams",
+      "email": "ava.williams@nordstar.example.com"
+    },
+    "text": "How to log parental leave in HRIS?",
+    "thread_ts": "1737347880.978",
+    "reactions": [
+      {
+        "name": "question",
+        "count": 3
+      }
+    ]
+  }
+]

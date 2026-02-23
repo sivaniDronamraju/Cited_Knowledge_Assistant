@@ -1,0 +1,28 @@
+[
+  {
+    "type": "message",
+    "ts": "1737025860.186",
+    "user": {
+      "id": "E0071",
+      "name": "Łukasz Dąbrowska",
+      "email": "lukasz.dąbrowska@nordstar.example.com"
+    },
+    "text": "Is premium economy allowed for 7h flights?"
+  },
+  {
+    "type": "message",
+    "ts": "1737028380.124",
+    "user": {
+      "id": "E0086",
+      "name": "Ola Davis",
+      "email": "ola.davis@nordstar.example.com"
+    },
+    "text": "Are ride-shares reimbursable in Berlin?",
+    "reactions": [
+      {
+        "name": "question",
+        "count": 2
+      }
+    ]
+  }
+]

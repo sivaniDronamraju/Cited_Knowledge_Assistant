@@ -1,0 +1,32 @@
+[
+  {
+    "type": "message",
+    "ts": "1737316260.582",
+    "user": {
+      "id": "E0066",
+      "name": "Olivia Miller",
+      "email": "olivia.miller@nordstar.example.com"
+    },
+    "text": "Requesting temporary admin for maintenance window."
+  },
+  {
+    "type": "message",
+    "ts": "1737318960.800",
+    "user": {
+      "id": "E0033",
+      "name": "Piotr Wiśniewska",
+      "email": "piotr.wiśniewska@nordstar.example.com"
+    },
+    "text": "Device NS-854729 last check-in time?"
+  },
+  {
+    "type": "message",
+    "ts": "1737320640.426",
+    "user": {
+      "id": "E0034",
+      "name": "Ewa Nowak",
+      "email": "ewa.nowak@nordstar.example.com"
+    },
+    "text": "Report: suspicious email received, header attached."
+  }
+]

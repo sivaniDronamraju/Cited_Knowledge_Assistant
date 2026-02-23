@@ -1,0 +1,70 @@
+[
+  {
+    "type": "message",
+    "ts": "1737013440.221",
+    "user": {
+      "id": "E0032",
+      "name": "Łukasz Kowalski",
+      "email": "lukasz.kowalski@nordstar.example.com"
+    },
+    "text": "Report: suspicious email received, header attached."
+  },
+  {
+    "type": "message",
+    "ts": "1737015540.609",
+    "user": {
+      "id": "E0059",
+      "name": "Ethan White",
+      "email": "ethan.white@nordstar.example.com"
+    },
+    "text": "Requesting temporary admin for maintenance window."
+  },
+  {
+    "type": "message",
+    "ts": "1737017460.688",
+    "user": {
+      "id": "E0087",
+      "name": "Olivia Dąbrowska",
+      "email": "olivia.dąbrowska@nordstar.example.com"
+    },
+    "text": "Report: suspicious email received, header attached."
+  },
+  {
+    "type": "message",
+    "ts": "1737019680.642",
+    "user": {
+      "id": "E0086",
+      "name": "Ola Davis",
+      "email": "ola.davis@nordstar.example.com"
+    },
+    "text": "Device NS-946416 last check-in time?"
+  },
+  {
+    "type": "message",
+    "ts": "1737021660.814",
+    "user": {
+      "id": "E0032",
+      "name": "Łukasz Kowalski",
+      "email": "lukasz.kowalski@nordstar.example.com"
+    },
+    "text": "Phishing simulation results for dept Operations?",
+    "thread_ts": "1737013440.221"
+  },
+  {
+    "type": "message",
+    "ts": "1737023580.174",
+    "user": {
+      "id": "E0080",
+      "name": "Noah Jackson",
+      "email": "noah.jackson@nordstar.example.com"
+    },
+    "text": "Report: suspicious email received, header attached.",
+    "thread_ts": "1737013440.221",
+    "reactions": [
+      {
+        "name": "question",
+        "count": 1
+      }
+    ]
+  }
+]

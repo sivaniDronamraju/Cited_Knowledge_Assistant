@@ -1,0 +1,92 @@
+[
+  {
+    "type": "message",
+    "ts": "1737536700.888",
+    "user": {
+      "id": "E0001",
+      "name": "Sofia Wójcik",
+      "email": "sofia.wójcik@nordstar.example.com"
+    },
+    "text": "Welcome our new joiners in Krakow!"
+  },
+  {
+    "type": "message",
+    "ts": "1737538560.807",
+    "user": {
+      "id": "E0106",
+      "name": "Jakub Brown",
+      "email": "jakub.brown@nordstar.example.com"
+    },
+    "text": "Reminder: update your goals by end of month.",
+    "thread_ts": "1737536700.888"
+  },
+  {
+    "type": "message",
+    "ts": "1737541620.336",
+    "user": {
+      "id": "E0088",
+      "name": "Zuzanna Wilson",
+      "email": "zuzanna.wilson@nordstar.example.com"
+    },
+    "text": "Reminder: update your goals by end of month."
+  },
+  {
+    "type": "message",
+    "ts": "1737543060.148",
+    "user": {
+      "id": "E0050",
+      "name": "Ola Martin",
+      "email": "ola.martin@nordstar.example.com"
+    },
+    "text": "Welcome our new joiners in Berlin!"
+  },
+  {
+    "type": "message",
+    "ts": "1737545160.215",
+    "user": {
+      "id": "E0030",
+      "name": "Krzysztof Thompson",
+      "email": "krzysztof.thompson@nordstar.example.com"
+    },
+    "text": "Reminder: update your goals by end of month.",
+    "reactions": [
+      {
+        "name": "thumbsup",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "ts": "1737547980.560",
+    "user": {
+      "id": "E0053",
+      "name": "Jakub Kamińska",
+      "email": "jakub.kamińska@nordstar.example.com"
+    },
+    "text": "Welcome our new joiners in Warsaw!",
+    "reactions": [
+      {
+        "name": "question",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "ts": "1737549060.755",
+    "user": {
+      "id": "E0069",
+      "name": "Olivia Rodriguez",
+      "email": "olivia.rodriguez@nordstar.example.com"
+    },
+    "text": "Town Hall slides will be posted after the session.",
+    "thread_ts": "1737536700.888",
+    "reactions": [
+      {
+        "name": "eyes",
+        "count": 1
+      }
+    ]
+  }
+]

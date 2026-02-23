@@ -1,0 +1,42 @@
+[
+  {
+    "type": "message",
+    "ts": "1737185520.614",
+    "user": {
+      "id": "E0071",
+      "name": "Łukasz Dąbrowska",
+      "email": "lukasz.dąbrowska@nordstar.example.com"
+    },
+    "text": "Is premium economy allowed for 7h flights?"
+  },
+  {
+    "type": "message",
+    "ts": "1737188640.820",
+    "user": {
+      "id": "E0083",
+      "name": "Ola Martinez",
+      "email": "ola.martinez@nordstar.example.com"
+    },
+    "text": "Meal per diem amounts for US?"
+  },
+  {
+    "type": "message",
+    "ts": "1737191220.251",
+    "user": {
+      "id": "E0037",
+      "name": "Piotr Moore",
+      "email": "piotr.moore@nordstar.example.com"
+    },
+    "text": "Meal per diem amounts for US?"
+  },
+  {
+    "type": "message",
+    "ts": "1737192840.728",
+    "user": {
+      "id": "E0077",
+      "name": "Liam Wójcik",
+      "email": "liam.wójcik@nordstar.example.com"
+    },
+    "text": "Are ride-shares reimbursable in Berlin?"
+  }
+]

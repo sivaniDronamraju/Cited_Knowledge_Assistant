@@ -1,0 +1,39 @@
+[
+  {
+    "type": "message",
+    "ts": "1737240720.874",
+    "user": {
+      "id": "E0118",
+      "name": "Ava Williams",
+      "email": "ava.williams@nordstar.example.com"
+    },
+    "text": "Upcoming pulse survey — watch HRIS inbox."
+  },
+  {
+    "type": "message",
+    "ts": "1737242700.610",
+    "user": {
+      "id": "E0088",
+      "name": "Zuzanna Wilson",
+      "email": "zuzanna.wilson@nordstar.example.com"
+    },
+    "text": "Compressed workweek pilots update: week 2.",
+    "thread_ts": "1737240720.874",
+    "reactions": [
+      {
+        "name": "ok_hand",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "ts": "1737245340.776",
+    "user": {
+      "id": "E0033",
+      "name": "Piotr Wiśniewska",
+      "email": "piotr.wiśniewska@nordstar.example.com"
+    },
+    "text": "Any guidance on part-time requests in Q1?"
+  }
+]

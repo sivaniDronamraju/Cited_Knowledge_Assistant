@@ -1,0 +1,60 @@
+[
+  {
+    "type": "message",
+    "ts": "1737155280.669",
+    "user": {
+      "id": "E0078",
+      "name": "Emma Anderson",
+      "email": "emma.anderson@nordstar.example.com"
+    },
+    "text": "Reminder: update your goals by end of month."
+  },
+  {
+    "type": "message",
+    "ts": "1737158400.146",
+    "user": {
+      "id": "E0014",
+      "name": "Agnieszka Taylor",
+      "email": "agnieszka.taylor@nordstar.example.com"
+    },
+    "text": "Submit Q&A by EOD today."
+  },
+  {
+    "type": "message",
+    "ts": "1737161700.987",
+    "user": {
+      "id": "E0098",
+      "name": "Ola Wilson",
+      "email": "ola.wilson@nordstar.example.com"
+    },
+    "text": "Reminder: update your goals by end of month.",
+    "reactions": [
+      {
+        "name": "ok_hand",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "ts": "1737163740.991",
+    "user": {
+      "id": "E0074",
+      "name": "Julia Jones",
+      "email": "julia.jones@nordstar.example.com"
+    },
+    "text": "Welcome our new joiners in Manchester!",
+    "thread_ts": "1737155280.669"
+  },
+  {
+    "type": "message",
+    "ts": "1737166800.143",
+    "user": {
+      "id": "E0022",
+      "name": "Liam Taylor",
+      "email": "liam.taylor@nordstar.example.com"
+    },
+    "text": "Welcome our new joiners in Austin!",
+    "thread_ts": "1737155280.669"
+  }
+]

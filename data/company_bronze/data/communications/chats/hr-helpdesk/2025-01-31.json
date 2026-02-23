@@ -1,0 +1,46 @@
+[
+  {
+    "type": "message",
+    "ts": "1737500400.733",
+    "user": {
+      "id": "E0057",
+      "name": "Ewa Martinez",
+      "email": "ewa.martinez@nordstar.example.com"
+    },
+    "text": "Where is the Code of Conduct acknowledgement?",
+    "reactions": [
+      {
+        "name": "ok_hand",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "ts": "1737502500.293",
+    "user": {
+      "id": "E0094",
+      "name": "Beata Lewandowski",
+      "email": "beata.lewandowski@nordstar.example.com"
+    },
+    "text": "Question about leave carryover in US.",
+    "thread_ts": "1737500400.733",
+    "reactions": [
+      {
+        "name": "question",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "ts": "1737503580.222",
+    "user": {
+      "id": "E0046",
+      "name": "Olivia Davis",
+      "email": "olivia.davis@nordstar.example.com"
+    },
+    "text": "Where is the Code of Conduct acknowledgement?",
+    "thread_ts": "1737500400.733"
+  }
+]

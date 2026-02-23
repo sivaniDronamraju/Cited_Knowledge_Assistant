@@ -1,0 +1,12 @@
+[
+  {
+    "type": "message",
+    "ts": "1737183000.437",
+    "user": {
+      "id": "E0078",
+      "name": "Emma Anderson",
+      "email": "emma.anderson@nordstar.example.com"
+    },
+    "text": "Report: suspicious email received, header attached."
+  }
+]

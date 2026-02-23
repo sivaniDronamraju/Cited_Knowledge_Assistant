@@ -1,0 +1,26 @@
+From: sofia.martin@nordstar.example.com
+To: lucas.williams@nordstar.example.com
+Subject: Expense report – Berlin visit (Jan 5–7)
+Date: Sat, 18 Jan 2025 12:42:00 +0000
+Message-ID: <5160fdb33e964fbb859fdaae7af0efc9@nordstar.example.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="=====e2431dbf9f81482dbf9a0530b97de04b"
+
+--=====e2431dbf9f81482dbf9a0530b97de04b
+Content-Type: text/plain; charset=UTF-8
+
+Hello Finance Team,
+
+Please find attached my expense CSV for the Berlin visit and the policy I followed.
+Trip purpose: kickoff with DE client. Please confirm receipt.
+
+Regards,
+Sofia Martin
+
+--=====e2431dbf9f81482dbf9a0530b97de04b
+Content-Type: application/octet-stream; name="expense_report_sample.csv"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="expense_report_sample.csv"
+
+ZGF0ZSxjYXRlZ29yeSxhbW91bnQsY3VycmVuY3ksbm90ZXMNCjIwMjUtMDEtMDUsSG90ZWwsNDIwLjg1LEVVUixCZXJsaW4gY2xpZW50IHZpc2l0DQoyMDI1LTAxLTA2LE1lYWxzLDM4LjIwLEVVUixEaW5uZXIgd2l0aCBjbGllbnQNCjIwMjUtMDEtMDYsVGF4aSwxOS41MCxFVVIsSG90ZWwg4oaSIG9mZmljZQ0K
+--=====e2431dbf9f81482dbf9a0530b97de04b--

@@ -1,0 +1,23 @@
+[
+  {
+    "type": "message",
+    "ts": "1738202400.100",
+    "user": {
+      "id": "E0042",
+      "name": "Ethan Moore",
+      "email": "ethan.moore@nordstar.example.com"
+    },
+    "text": "Compressed workweek pilots OK for Q1; ensure overlap hours 10:00–15:00 CET."
+  },
+  {
+    "type": "message",
+    "ts": "1738202460.120",
+    "user": {
+      "id": "E0046",
+      "name": "Olivia Davis",
+      "email": "olivia.davis@nordstar.example.com"
+    },
+    "text": "We’ll try 4x10h for Ops L3 staff on a 6-week pilot; report weekly metrics.",
+    "thread_ts": "1738202400.100"
+  }
+]

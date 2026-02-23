@@ -1,0 +1,23 @@
+[
+  {
+    "type": "message",
+    "ts": "1737394740.102",
+    "user": {
+      "id": "E0085",
+      "name": "Ewa Garcia",
+      "email": "ewa.garcia@nordstar.example.com"
+    },
+    "text": "Where is the Code of Conduct acknowledgement?"
+  },
+  {
+    "type": "message",
+    "ts": "1737396000.205",
+    "user": {
+      "id": "E0027",
+      "name": "Krzysztof Thomas",
+      "email": "krzysztof.thomas@nordstar.example.com"
+    },
+    "text": "Where is the Code of Conduct acknowledgement?",
+    "thread_ts": "1737394740.102"
+  }
+]

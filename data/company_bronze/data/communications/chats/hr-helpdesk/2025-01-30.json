@@ -1,0 +1,38 @@
+[
+  {
+    "type": "message",
+    "ts": "1737437040.798",
+    "user": {
+      "id": "E0018",
+      "name": "Olivia Moore",
+      "email": "olivia.moore@nordstar.example.com"
+    },
+    "text": "Is training X mandatory for contractors?"
+  },
+  {
+    "type": "message",
+    "ts": "1737439320.159",
+    "user": {
+      "id": "E0033",
+      "name": "Piotr Wiśniewska",
+      "email": "piotr.wiśniewska@nordstar.example.com"
+    },
+    "text": "Is training X mandatory for contractors?",
+    "reactions": [
+      {
+        "name": "thumbsup",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "ts": "1737441000.645",
+    "user": {
+      "id": "E0021",
+      "name": "Mateusz Martin",
+      "email": "mateusz.martin@nordstar.example.com"
+    },
+    "text": "How to log parental leave in HRIS?"
+  }
+]

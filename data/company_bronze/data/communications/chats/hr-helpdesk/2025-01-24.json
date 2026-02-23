@@ -1,0 +1,80 @@
+[
+  {
+    "type": "message",
+    "ts": "1737168660.360",
+    "user": {
+      "id": "E0104",
+      "name": "Anna Nowak",
+      "email": "anna.nowak@nordstar.example.com"
+    },
+    "text": "Question about leave carryover in UK.",
+    "reactions": [
+      {
+        "name": "eyes",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "ts": "1737171780.405",
+    "user": {
+      "id": "E0103",
+      "name": "Ola Miller",
+      "email": "ola.miller@nordstar.example.com"
+    },
+    "text": "How to log parental leave in HRIS?"
+  },
+  {
+    "type": "message",
+    "ts": "1737172920.683",
+    "user": {
+      "id": "E0113",
+      "name": "Zuzanna Miller",
+      "email": "zuzanna.miller@nordstar.example.com"
+    },
+    "text": "Is training X mandatory for contractors?"
+  },
+  {
+    "type": "message",
+    "ts": "1737175500.750",
+    "user": {
+      "id": "E0027",
+      "name": "Krzysztof Thomas",
+      "email": "krzysztof.thomas@nordstar.example.com"
+    },
+    "text": "Where is the Code of Conduct acknowledgement?"
+  },
+  {
+    "type": "message",
+    "ts": "1737177780.133",
+    "user": {
+      "id": "E0024",
+      "name": "Katarzyna Thompson",
+      "email": "katarzyna.thompson@nordstar.example.com"
+    },
+    "text": "Is training X mandatory for contractors?",
+    "thread_ts": "1737168660.360"
+  },
+  {
+    "type": "message",
+    "ts": "1737179940.327",
+    "user": {
+      "id": "E0098",
+      "name": "Ola Wilson",
+      "email": "ola.wilson@nordstar.example.com"
+    },
+    "text": "Where is the Code of Conduct acknowledgement?"
+  },
+  {
+    "type": "message",
+    "ts": "1737181200.213",
+    "user": {
+      "id": "E0062",
+      "name": "Krzysztof Dąbrowska",
+      "email": "krzysztof.dąbrowska@nordstar.example.com"
+    },
+    "text": "Is training X mandatory for contractors?",
+    "thread_ts": "1737168660.360"
+  }
+]

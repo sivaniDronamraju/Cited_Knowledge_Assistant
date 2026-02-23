@@ -1,0 +1,12 @@
+[
+  {
+    "type": "message",
+    "ts": "1738440000.100",
+    "user": {
+      "id": "E0080",
+      "name": "Noah Jackson",
+      "email": "noah.jackson@nordstar.example.com"
+    },
+    "text": "Town Hall on Feb 12 — submit questions via the form by Feb 7."
+  }
+]

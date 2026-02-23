@@ -1,0 +1,55 @@
+[
+  {
+    "type": "message",
+    "ts": "1737323040.490",
+    "user": {
+      "id": "E0103",
+      "name": "Ola Miller",
+      "email": "ola.miller@nordstar.example.com"
+    },
+    "text": "Meal per diem amounts for UK?"
+  },
+  {
+    "type": "message",
+    "ts": "1737325200.767",
+    "user": {
+      "id": "E0010",
+      "name": "Krzysztof Lewandowski",
+      "email": "krzysztof.lewandowski@nordstar.example.com"
+    },
+    "text": "Is premium economy allowed for 7h flights?"
+  },
+  {
+    "type": "message",
+    "ts": "1737328320.608",
+    "user": {
+      "id": "E0025",
+      "name": "Agnieszka Thomas",
+      "email": "agnieszka.thomas@nordstar.example.com"
+    },
+    "text": "Is premium economy allowed for 7h flights?",
+    "thread_ts": "1737323040.490",
+    "reactions": [
+      {
+        "name": "thumbsup",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "ts": "1737330240.969",
+    "user": {
+      "id": "E0042",
+      "name": "Ethan Moore",
+      "email": "ethan.moore@nordstar.example.com"
+    },
+    "text": "Meal per diem amounts for UK?",
+    "reactions": [
+      {
+        "name": "question",
+        "count": 2
+      }
+    ]
+  }
+]

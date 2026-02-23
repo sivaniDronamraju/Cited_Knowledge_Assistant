@@ -1,0 +1,135 @@
+[
+  {
+    "type": "message",
+    "ts": "1737522000.100",
+    "user": {
+      "id": "E0118",
+      "name": "Ava Williams",
+      "email": "ava.williams@nordstar.example.com"
+    },
+    "text": "Quick question: does annual leave carry over to next year in PL?",
+    "reactions": [
+      {
+        "name": "eyes",
+        "count": 2
+      }
+    ],
+    "thread_ts": "1737522000.100"
+  },
+  {
+    "type": "message",
+    "ts": "1737522060.200",
+    "user": {
+      "id": "E0018",
+      "name": "Olivia Moore",
+      "email": "olivia.moore@nordstar.example.com"
+    },
+    "text": "In PL: typically up to 26 days entitlement; carryover must be used by 30 Sep next year.",
+    "thread_ts": "1737522000.100",
+    "attachments": [
+      {
+        "title": "Leave Policy (PL) excerpt",
+        "file": "leave_policy_pl.docx"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "ts": "1737057180.310",
+    "user": {
+      "id": "E0054",
+      "name": "Emma Thomas",
+      "email": "emma.thomas@nordstar.example.com"
+    },
+    "text": "Question about leave carryover in US.",
+    "reactions": [
+      {
+        "name": "thumbsup",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "ts": "1737059100.800",
+    "user": {
+      "id": "E0011",
+      "name": "Katarzyna Kamińska",
+      "email": "katarzyna.kamińska@nordstar.example.com"
+    },
+    "text": "Where is the Code of Conduct acknowledgement?",
+    "reactions": [
+      {
+        "name": "ok_hand",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "ts": "1737061200.332",
+    "user": {
+      "id": "E0065",
+      "name": "Marcin Jones",
+      "email": "marcin.jones@nordstar.example.com"
+    },
+    "text": "Question about leave carryover in US."
+  },
+  {
+    "type": "message",
+    "ts": "1737062880.807",
+    "user": {
+      "id": "E0076",
+      "name": "Sofia Wiśniewska",
+      "email": "sofia.wiśniewska@nordstar.example.com"
+    },
+    "text": "Question about leave carryover in UK."
+  },
+  {
+    "type": "message",
+    "ts": "1737066300.333",
+    "user": {
+      "id": "E0080",
+      "name": "Noah Jackson",
+      "email": "noah.jackson@nordstar.example.com"
+    },
+    "text": "Where is the Code of Conduct acknowledgement?"
+  },
+  {
+    "type": "message",
+    "ts": "1737068940.932",
+    "user": {
+      "id": "E0075",
+      "name": "Katarzyna Garcia",
+      "email": "katarzyna.garcia@nordstar.example.com"
+    },
+    "text": "How to log parental leave in HRIS?",
+    "thread_ts": "1737057180.310",
+    "reactions": [
+      {
+        "name": "thumbsup",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "ts": "1737072240.807",
+    "user": {
+      "id": "E0041",
+      "name": "Adam Kamińska",
+      "email": "adam.kamińska@nordstar.example.com"
+    },
+    "text": "Is training X mandatory for contractors?"
+  },
+  {
+    "type": "message",
+    "ts": "1737073980.616",
+    "user": {
+      "id": "E0074",
+      "name": "Julia Jones",
+      "email": "julia.jones@nordstar.example.com"
+    },
+    "text": "Question about leave carryover in EU."
+  }
+]

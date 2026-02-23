@@ -1,0 +1,44 @@
+[
+  {
+    "type": "message",
+    "ts": "1737388560.620",
+    "user": {
+      "id": "E0080",
+      "name": "Noah Jackson",
+      "email": "noah.jackson@nordstar.example.com"
+    },
+    "text": "Welcome our new joiners in Warsaw!"
+  },
+  {
+    "type": "message",
+    "ts": "1737390420.135",
+    "user": {
+      "id": "E0055",
+      "name": "Liam Martin",
+      "email": "liam.martin@nordstar.example.com"
+    },
+    "text": "Reminder: update your goals by end of month.",
+    "thread_ts": "1737388560.620"
+  },
+  {
+    "type": "message",
+    "ts": "1737392100.816",
+    "user": {
+      "id": "E0080",
+      "name": "Noah Jackson",
+      "email": "noah.jackson@nordstar.example.com"
+    },
+    "text": "Welcome our new joiners in Austin!",
+    "thread_ts": "1737388560.620"
+  },
+  {
+    "type": "message",
+    "ts": "1737393600.877",
+    "user": {
+      "id": "E0020",
+      "name": "Łukasz Harris",
+      "email": "lukasz.harris@nordstar.example.com"
+    },
+    "text": "Welcome our new joiners in Gdansk!"
+  }
+]

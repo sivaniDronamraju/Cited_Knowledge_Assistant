@@ -1,0 +1,11 @@
+{
+  "title": "Bilingual HR Bronze (EN/PL) \u2014 Synthetic Corporate Data Lake Snapshot (2025-01)",
+  "id": "beatafaron/bilingual-hr-bronze-2025-01",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "subtitle": "Raw, multi-source corporate snapshot for RAG & analytics (EN/PL)",
+  "description": "# Bilingual HR Bronze (EN/PL) \u2014 Synthetic Corporate Data Lake Snapshot (2025-01)\n\n**What this is:** a realistic, *raw/bronze* multi-source corporate snapshot for LLM + RAG + analytics.\nAll content is synthetic. Not legal advice.\n\n## Contents\n- **company_bronze/** (raw, uncleaned)\n  - **data/content/policies/** \u2014 17 HR policies \u00d7 2 languages (EN/PL) in .docx\n  - **data/systems/hris_exports/** \u2014 CSV exports (employees, leave balances, training)\n  - **data/communications/** \u2014 emails (.eml, with attachments) + Slack-style chats (JSON)\n  - **data/tickets/** \u2014 HR helpdesk (CSV), IT incidents (CSV), compliance cases (JSONL) + evidence\n  - **data/files/** \u2014 spreadsheets (XLSX), CSV extracts, short PDFs, and a SharePoint-like index (CSV)\n- **MANIFEST.csv** \u2014 file paths, sizes, sha256 checksums\n\n## Intended use\n- Retrieval-Augmented Generation (RAG) over mixed formats\n- Cross-lingual search/Q&A (EN \u21c4 PL)\n- HR analytics exercises (joins across HRIS/training/policy acknowledgements)\n- Document AI (chunking, parsing .docx/.eml/.pdf)\n\n## Notes\n- Data is intentionally **messy** (duplicates, missing fields, malformed timestamps, malformed emails) to reflect bronze reality.\n- Company/people are fictional; numbers are illustrative; no real PII.\n\n## License\n**CC BY 4.0** \u2014 Please credit the dataset in derived works.\n\n## Version\nRelease: 2025-01 (v1.0) \u2022 Generated with structured prompts (OpenAI) and Python scripts.\n"
+}

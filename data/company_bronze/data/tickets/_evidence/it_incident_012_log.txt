@@ -1,0 +1,1 @@
+Incident 12 log: phishing reported by E0024 | severity=Medium

@@ -1,0 +1,48 @@
+[
+  {
+    "type": "message",
+    "ts": "1737284040.316",
+    "user": {
+      "id": "E0112",
+      "name": "Katarzyna Dąbrowska",
+      "email": "katarzyna.dąbrowska@nordstar.example.com"
+    },
+    "text": "Compressed workweek pilots update: week 4.",
+    "reactions": [
+      {
+        "name": "ok_hand",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "ts": "1737285660.982",
+    "user": {
+      "id": "E0102",
+      "name": "Amelia Rodriguez",
+      "email": "amelia.rodriguez@nordstar.example.com"
+    },
+    "text": "Mentoring program signups close Friday."
+  },
+  {
+    "type": "message",
+    "ts": "1737286680.825",
+    "user": {
+      "id": "E0044",
+      "name": "Magda Nowak",
+      "email": "magda.nowak@nordstar.example.com"
+    },
+    "text": "Mentoring program signups close Friday."
+  },
+  {
+    "type": "message",
+    "ts": "1737289380.950",
+    "user": {
+      "id": "E0077",
+      "name": "Liam Wójcik",
+      "email": "liam.wójcik@nordstar.example.com"
+    },
+    "text": "Upcoming pulse survey — watch HRIS inbox."
+  }
+]

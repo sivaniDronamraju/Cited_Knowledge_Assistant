@@ -1,0 +1,66 @@
+[
+  {
+    "type": "message",
+    "ts": "1737031440.525",
+    "user": {
+      "id": "E0058",
+      "name": "Jakub Martinez",
+      "email": "jakub.martinez@nordstar.example.com"
+    },
+    "text": "Any guidance on part-time requests in Q1?"
+  },
+  {
+    "type": "message",
+    "ts": "1737034560.255",
+    "user": {
+      "id": "E0071",
+      "name": "Łukasz Dąbrowska",
+      "email": "lukasz.dąbrowska@nordstar.example.com"
+    },
+    "text": "Upcoming pulse survey — watch HRIS inbox.",
+    "reactions": [
+      {
+        "name": "question",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "ts": "1737036900.153",
+    "user": {
+      "id": "E0041",
+      "name": "Adam Kamińska",
+      "email": "adam.kamińska@nordstar.example.com"
+    },
+    "text": "Mentoring program signups close Friday.",
+    "thread_ts": "1737031440.525"
+  },
+  {
+    "type": "message",
+    "ts": "1737040260.201",
+    "user": {
+      "id": "E0069",
+      "name": "Olivia Rodriguez",
+      "email": "olivia.rodriguez@nordstar.example.com"
+    },
+    "text": "Mentoring program signups close Friday."
+  },
+  {
+    "type": "message",
+    "ts": "1737041460.479",
+    "user": {
+      "id": "E0078",
+      "name": "Emma Anderson",
+      "email": "emma.anderson@nordstar.example.com"
+    },
+    "text": "Upcoming pulse survey — watch HRIS inbox.",
+    "thread_ts": "1737031440.525",
+    "reactions": [
+      {
+        "name": "thumbsup",
+        "count": 2
+      }
+    ]
+  }
+]

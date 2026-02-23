@@ -1,0 +1,32 @@
+[
+  {
+    "type": "message",
+    "ts": "1736982120.461",
+    "user": {
+      "id": "E0008",
+      "name": "Tomasz Taylor",
+      "email": "tomasz.taylor@nordstar.example.com"
+    },
+    "text": "Town Hall slides will be posted after the session."
+  },
+  {
+    "type": "message",
+    "ts": "1736985240.212",
+    "user": {
+      "id": "E0081",
+      "name": "Liam Johnson",
+      "email": "liam.johnson@nordstar.example.com"
+    },
+    "text": "Submit Q&A by EOD today."
+  },
+  {
+    "type": "message",
+    "ts": "1736987940.371",
+    "user": {
+      "id": "E0085",
+      "name": "Ewa Garcia",
+      "email": "ewa.garcia@nordstar.example.com"
+    },
+    "text": "Welcome our new joiners in London!"
+  }
+]

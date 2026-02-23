@@ -1,0 +1,49 @@
+[
+  {
+    "type": "message",
+    "ts": "1737365040.625",
+    "user": {
+      "id": "E0083",
+      "name": "Ola Martinez",
+      "email": "ola.martinez@nordstar.example.com"
+    },
+    "text": "Are ride-shares reimbursable in New York?"
+  },
+  {
+    "type": "message",
+    "ts": "1737367140.399",
+    "user": {
+      "id": "E0101",
+      "name": "Marcin Dąbrowska",
+      "email": "marcin.dąbrowska@nordstar.example.com"
+    },
+    "text": "Are ride-shares reimbursable in London?"
+  },
+  {
+    "type": "message",
+    "ts": "1737369180.883",
+    "user": {
+      "id": "E0079",
+      "name": "Lucas Williams",
+      "email": "lucas.williams@nordstar.example.com"
+    },
+    "text": "Hotel cap for Paris during conference?",
+    "reactions": [
+      {
+        "name": "eyes",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "ts": "1737370620.351",
+    "user": {
+      "id": "E0115",
+      "name": "Anna Mazur",
+      "email": "anna.mazur@nordstar.example.com"
+    },
+    "text": "Is premium economy allowed for 7h flights?",
+    "thread_ts": "1737365040.625"
+  }
+]

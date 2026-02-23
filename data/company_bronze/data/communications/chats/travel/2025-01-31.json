@@ -1,0 +1,63 @@
+[
+  {
+    "type": "message",
+    "ts": "1737513000.547",
+    "user": {
+      "id": "E0020",
+      "name": "Łukasz Harris",
+      "email": "lukasz.harris@nordstar.example.com"
+    },
+    "text": "Is premium economy allowed for 7h flights?"
+  },
+  {
+    "type": "message",
+    "ts": "1737514800.638",
+    "user": {
+      "id": "E0112",
+      "name": "Katarzyna Dąbrowska",
+      "email": "katarzyna.dąbrowska@nordstar.example.com"
+    },
+    "text": "Meal per diem amounts for PL?",
+    "thread_ts": "1737513000.547"
+  },
+  {
+    "type": "message",
+    "ts": "1737517200.164",
+    "user": {
+      "id": "E0057",
+      "name": "Ewa Martinez",
+      "email": "ewa.martinez@nordstar.example.com"
+    },
+    "text": "Meal per diem amounts for PL?"
+  },
+  {
+    "type": "message",
+    "ts": "1737520440.573",
+    "user": {
+      "id": "E0082",
+      "name": "Magda Brown",
+      "email": "magda.brown@nordstar.example.com"
+    },
+    "text": "Hotel cap for Austin during conference?"
+  },
+  {
+    "type": "message",
+    "ts": "1737523680.254",
+    "user": {
+      "id": "E0045",
+      "name": "Beata Mazur",
+      "email": "beata.mazur@nordstar.example.com"
+    },
+    "text": "Are ride-shares reimbursable in Paris?"
+  },
+  {
+    "type": "message",
+    "ts": "1737526800.758",
+    "user": {
+      "id": "E0094",
+      "name": "Beata Lewandowski",
+      "email": "beata.lewandowski@nordstar.example.com"
+    },
+    "text": "Hotel cap for Austin during conference?"
+  }
+]

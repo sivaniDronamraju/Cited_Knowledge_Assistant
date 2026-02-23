@@ -1,0 +1,22 @@
+[
+  {
+    "type": "message",
+    "ts": "1737331980.808",
+    "user": {
+      "id": "E0097",
+      "name": "Paweł Mazur",
+      "email": "pawel.mazur@nordstar.example.com"
+    },
+    "text": "Upcoming pulse survey — watch HRIS inbox."
+  },
+  {
+    "type": "message",
+    "ts": "1737335340.231",
+    "user": {
+      "id": "E0064",
+      "name": "Marcin Martinez",
+      "email": "marcin.martinez@nordstar.example.com"
+    },
+    "text": "Any guidance on part-time requests in Q1?"
+  }
+]

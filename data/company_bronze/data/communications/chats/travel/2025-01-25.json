@@ -1,0 +1,28 @@
+[
+  {
+    "type": "message",
+    "ts": "1737235260.336",
+    "user": {
+      "id": "E0102",
+      "name": "Amelia Rodriguez",
+      "email": "amelia.rodriguez@nordstar.example.com"
+    },
+    "text": "Are ride-shares reimbursable in Manchester?"
+  },
+  {
+    "type": "message",
+    "ts": "1737237720.867",
+    "user": {
+      "id": "E0089",
+      "name": "Noah Jones",
+      "email": "noah.jones@nordstar.example.com"
+    },
+    "text": "Are ride-shares reimbursable in Krakow?",
+    "reactions": [
+      {
+        "name": "eyes",
+        "count": 4
+      }
+    ]
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "type": "message",
+    "ts": "1737658800.100",
+    "user": {
+      "id": "E0004",
+      "name": "Anna Jackson",
+      "email": "anna.jackson@nordstar.example.com"
+    },
+    "text": "Heads-up: Lost laptop reported (EID redacted). Tokens revoked; Sentinel alert clean so far."
+  },
+  {
+    "type": "message",
+    "ts": "1737658860.200",
+    "user": {
+      "id": "E0040",
+      "name": "Liam Wójcik",
+      "email": "liam.wójcik@nordstar.example.com"
+    },
+    "text": "Please confirm disk encryption and last check-in time in MDM.",
+    "thread_ts": "1737658800.100"
+  },
+  {
+    "type": "message",
+    "ts": "1737223320.384",
+    "user": {
+      "id": "E0085",
+      "name": "Ewa Garcia",
+      "email": "ewa.garcia@nordstar.example.com"
+    },
+    "text": "Phishing simulation results for dept Legal?",
+    "reactions": [
+      {
+        "name": "ok_hand",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "ts": "1737225600.545",
+    "user": {
+      "id": "E0070",
+      "name": "Krzysztof Martin",
+      "email": "krzysztof.martin@nordstar.example.com"
+    },
+    "text": "Report: suspicious email received, header attached.",
+    "thread_ts": "1737223320.384"
+  },
+  {
+    "type": "message",
+    "ts": "1737226680.155",
+    "user": {
+      "id": "E0109",
+      "name": "Amelia Kowalska",
+      "email": "amelia.kowalska@nordstar.example.com"
+    },
+    "text": "Requesting temporary admin for maintenance window.",
+    "thread_ts": "1737223320.384"
+  },
+  {
+    "type": "message",
+    "ts": "1737228960.774",
+    "user": {
+      "id": "E0053",
+      "name": "Jakub Kamińska",
+      "email": "jakub.kamińska@nordstar.example.com"
+    },
+    "text": "Device NS-399519 last check-in time?",
+    "thread_ts": "1737223320.384"
+  },
+  {
+    "type": "message",
+    "ts": "1737232080.207",
+    "user": {
+      "id": "E0090",
+      "name": "Emma Davis",
+      "email": "emma.davis@nordstar.example.com"
+    },
+    "text": "Phishing simulation results for dept Data Science?",
+    "thread_ts": "1737223320.384"
+  }
+]

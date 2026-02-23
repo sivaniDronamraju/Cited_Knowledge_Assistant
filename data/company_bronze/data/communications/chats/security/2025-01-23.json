@@ -1,0 +1,97 @@
+[
+  {
+    "type": "message",
+    "ts": "1737121980.921",
+    "user": {
+      "id": "E0053",
+      "name": "Jakub Kamińska",
+      "email": "jakub.kamińska@nordstar.example.com"
+    },
+    "text": "Phishing simulation results for dept Sales?",
+    "reactions": [
+      {
+        "name": "thumbsup",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "ts": "1737124740.357",
+    "user": {
+      "id": "E0042",
+      "name": "Ethan Moore",
+      "email": "ethan.moore@nordstar.example.com"
+    },
+    "text": "Phishing simulation results for dept Data Science?",
+    "reactions": [
+      {
+        "name": "eyes",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "ts": "1737127380.974",
+    "user": {
+      "id": "E0085",
+      "name": "Ewa Garcia",
+      "email": "ewa.garcia@nordstar.example.com"
+    },
+    "text": "Requesting temporary admin for maintenance window.",
+    "thread_ts": "1737121980.921"
+  },
+  {
+    "type": "message",
+    "ts": "1737128940.972",
+    "user": {
+      "id": "E0107",
+      "name": "Isabella Zieliński",
+      "email": "isabella.zieliński@nordstar.example.com"
+    },
+    "text": "Requesting temporary admin for maintenance window.",
+    "reactions": [
+      {
+        "name": "thumbsup",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "ts": "1737130920.116",
+    "user": {
+      "id": "E0035",
+      "name": "Adam Wiśniewska",
+      "email": "adam.wiśniewska@nordstar.example.com"
+    },
+    "text": "Device NS-402490 last check-in time?"
+  },
+  {
+    "type": "message",
+    "ts": "1737132240.448",
+    "user": {
+      "id": "E0013",
+      "name": "Krzysztof Johnson",
+      "email": "krzysztof.johnson@nordstar.example.com"
+    },
+    "text": "Requesting temporary admin for maintenance window.",
+    "reactions": [
+      {
+        "name": "thumbsup",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "ts": "1737133320.778",
+    "user": {
+      "id": "E0017",
+      "name": "Magda Martin",
+      "email": "magda.martin@nordstar.example.com"
+    },
+    "text": "Device NS-169492 last check-in time?"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "type": "message",
+    "ts": "1737102060.261",
+    "user": {
+      "id": "E0026",
+      "name": "Michał Brown",
+      "email": "michal.brown@nordstar.example.com"
+    },
+    "text": "Welcome our new joiners in Krakow!",
+    "reactions": [
+      {
+        "name": "question",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "ts": "1737103380.513",
+    "user": {
+      "id": "E0017",
+      "name": "Magda Martin",
+      "email": "magda.martin@nordstar.example.com"
+    },
+    "text": "Reminder: update your goals by end of month.",
+    "thread_ts": "1737102060.261"
+  },
+  {
+    "type": "message",
+    "ts": "1737105720.121",
+    "user": {
+      "id": "E0010",
+      "name": "Krzysztof Lewandowski",
+      "email": "krzysztof.lewandowski@nordstar.example.com"
+    },
+    "text": "Submit Q&A by EOD today.",
+    "thread_ts": "1737102060.261"
+  }
+]

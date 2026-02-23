@@ -1,0 +1,52 @@
+[
+  {
+    "type": "message",
+    "ts": "1736964240.393",
+    "user": {
+      "id": "E0052",
+      "name": "Adam Brown",
+      "email": "adam.brown@nordstar.example.com"
+    },
+    "text": "Is premium economy allowed for 7h flights?"
+  },
+  {
+    "type": "message",
+    "ts": "1736965500.397",
+    "user": {
+      "id": "E0114",
+      "name": "Julia Moore",
+      "email": "julia.moore@nordstar.example.com"
+    },
+    "text": "Is premium economy allowed for 7h flights?"
+  },
+  {
+    "type": "message",
+    "ts": "1736966640.613",
+    "user": {
+      "id": "E0035",
+      "name": "Adam Wiśniewska",
+      "email": "adam.wiśniewska@nordstar.example.com"
+    },
+    "text": "Meal per diem amounts for UK?"
+  },
+  {
+    "type": "message",
+    "ts": "1736968140.325",
+    "user": {
+      "id": "E0069",
+      "name": "Olivia Rodriguez",
+      "email": "olivia.rodriguez@nordstar.example.com"
+    },
+    "text": "Is premium economy allowed for 7h flights?"
+  },
+  {
+    "type": "message",
+    "ts": "1736970240.461",
+    "user": {
+      "id": "E0003",
+      "name": "Adam Kowalska",
+      "email": "adam.kowalska@nordstar.example.com"
+    },
+    "text": "Hotel cap for Austin during conference?"
+  }
+]

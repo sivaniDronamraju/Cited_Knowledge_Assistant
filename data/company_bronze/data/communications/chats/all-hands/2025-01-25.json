@@ -1,0 +1,49 @@
+[
+  {
+    "type": "message",
+    "ts": "1737246540.148",
+    "user": {
+      "id": "E0110",
+      "name": "Olivia Wiśniewska",
+      "email": "olivia.wiśniewska@nordstar.example.com"
+    },
+    "text": "Submit Q&A by EOD today."
+  },
+  {
+    "type": "message",
+    "ts": "1737248040.754",
+    "user": {
+      "id": "E0091",
+      "name": "Mateusz Martinez",
+      "email": "mateusz.martinez@nordstar.example.com"
+    },
+    "text": "Reminder: update your goals by end of month."
+  },
+  {
+    "type": "message",
+    "ts": "1737250560.584",
+    "user": {
+      "id": "E0086",
+      "name": "Ola Davis",
+      "email": "ola.davis@nordstar.example.com"
+    },
+    "text": "Reminder: update your goals by end of month.",
+    "thread_ts": "1737246540.148",
+    "reactions": [
+      {
+        "name": "thumbsup",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "ts": "1737252660.993",
+    "user": {
+      "id": "E0083",
+      "name": "Ola Martinez",
+      "email": "ola.martinez@nordstar.example.com"
+    },
+    "text": "Reminder: update your goals by end of month."
+  }
+]

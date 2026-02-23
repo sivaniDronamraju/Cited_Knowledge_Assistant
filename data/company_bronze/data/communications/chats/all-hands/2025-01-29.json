@@ -1,0 +1,54 @@
+[
+  {
+    "type": "message",
+    "ts": "1737426420.965",
+    "user": {
+      "id": "E0115",
+      "name": "Anna Mazur",
+      "email": "anna.mazur@nordstar.example.com"
+    },
+    "text": "Town Hall slides will be posted after the session."
+  },
+  {
+    "type": "message",
+    "ts": "1737427920.326",
+    "user": {
+      "id": "E0028",
+      "name": "Ewa Lewandowski",
+      "email": "ewa.lewandowski@nordstar.example.com"
+    },
+    "text": "Submit Q&A by EOD today."
+  },
+  {
+    "type": "message",
+    "ts": "1737429360.409",
+    "user": {
+      "id": "E0059",
+      "name": "Ethan White",
+      "email": "ethan.white@nordstar.example.com"
+    },
+    "text": "Submit Q&A by EOD today.",
+    "thread_ts": "1737426420.965"
+  },
+  {
+    "type": "message",
+    "ts": "1737432000.479",
+    "user": {
+      "id": "E0077",
+      "name": "Liam Wójcik",
+      "email": "liam.wójcik@nordstar.example.com"
+    },
+    "text": "Welcome our new joiners in Gdansk!"
+  },
+  {
+    "type": "message",
+    "ts": "1737435180.838",
+    "user": {
+      "id": "E0037",
+      "name": "Piotr Moore",
+      "email": "piotr.moore@nordstar.example.com"
+    },
+    "text": "Submit Q&A by EOD today.",
+    "thread_ts": "1737426420.965"
+  }
+]

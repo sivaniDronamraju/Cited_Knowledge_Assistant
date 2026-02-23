@@ -1,0 +1,60 @@
+[
+  {
+    "type": "message",
+    "ts": "1737337020.241",
+    "user": {
+      "id": "E0041",
+      "name": "Adam Kamińska",
+      "email": "adam.kamińska@nordstar.example.com"
+    },
+    "text": "Town Hall slides will be posted after the session."
+  },
+  {
+    "type": "message",
+    "ts": "1737339060.941",
+    "user": {
+      "id": "E0027",
+      "name": "Krzysztof Thomas",
+      "email": "krzysztof.thomas@nordstar.example.com"
+    },
+    "text": "Welcome our new joiners in Berlin!",
+    "thread_ts": "1737337020.241"
+  },
+  {
+    "type": "message",
+    "ts": "1737341340.748",
+    "user": {
+      "id": "E0110",
+      "name": "Olivia Wiśniewska",
+      "email": "olivia.wiśniewska@nordstar.example.com"
+    },
+    "text": "Town Hall slides will be posted after the session.",
+    "thread_ts": "1737337020.241",
+    "reactions": [
+      {
+        "name": "ok_hand",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "ts": "1737342960.335",
+    "user": {
+      "id": "E0069",
+      "name": "Olivia Rodriguez",
+      "email": "olivia.rodriguez@nordstar.example.com"
+    },
+    "text": "Reminder: update your goals by end of month."
+  },
+  {
+    "type": "message",
+    "ts": "1737345540.885",
+    "user": {
+      "id": "E0119",
+      "name": "Magda Martin",
+      "email": "magda.martin@nordstar.example.com"
+    },
+    "text": "Welcome our new joiners in Austin!"
+  }
+]
