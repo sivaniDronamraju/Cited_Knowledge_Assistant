@@ -1,4 +1,4 @@
-# backend/schemas.py
+# backend/retrieval/schemas.py
 
 from pydantic import BaseModel
 from typing import Dict, Any

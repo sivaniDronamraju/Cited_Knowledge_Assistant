@@ -1,8 +1,10 @@
-# backend/ingestion.py
+# backend/retrieval/ingestion.py
 
 import os
 import json
 import uuid
+from typing import List, Union
+
 import pandas as pd
 from pypdf import PdfReader
 import docx
@@ -10,14 +12,18 @@ from email import policy
 from email.parser import BytesParser
 from langdetect import detect, LangDetectException
 
-from backend.schemas import Document
+from backend.retrieval.schemas import Document
 
 
-# -------------------------------------------------------
-# Utility: Metadata Builder
-# -------------------------------------------------------
+ 
+# Metadata Utilities
+ 
 
-def base_metadata(path: str, file_type: str):
+
+def base_metadata(path: str, file_type: str) -> dict:
+    """
+    Build standardized metadata dictionary for a file.
+    """
     return {
         "source_path": path,
         "file_name": os.path.basename(path),
@@ -26,42 +32,34 @@ def base_metadata(path: str, file_type: str):
     }
 
 
-# -------------------------------------------------------
-# Utility: Language Detection
-# -------------------------------------------------------
-
 def detect_language(text: str) -> str:
+    """
+    Detect language of text safely.
+    """
     try:
         return detect(text)
     except LangDetectException:
         return "unknown"
 
 
-# -------------------------------------------------------
-# Utility: Structured Row → Sentence Conversion
-# -------------------------------------------------------
+ 
+# Structured Data Handling
+ 
+
 
 def row_to_sentence(row: pd.Series) -> str:
     """
-    Converts a structured row into a generic, readable sentence.
-
-    - Skips null values
-    - Converts underscores to spaces
-    - Title-cases column names
-    - Converts Y/N to Yes/No
+    Convert structured tabular row into readable sentence.
     """
 
     parts = []
 
     for col, value in row.items():
-
         if pd.isna(value):
             continue
 
-        # Clean column name
         col_clean = col.replace("_", " ").strip().title()
 
-        # Normalize Yes/No flags
         if isinstance(value, str):
             if value.upper() == "Y":
                 value = "Yes"
@@ -70,16 +68,20 @@ def row_to_sentence(row: pd.Series) -> str:
 
         parts.append(f"{col_clean}: {value}")
 
+    if not parts:
+        return ""
+
     return ". ".join(parts) + "."
 
 
-# -------------------------------------------------------
+ 
 # Parsers
-# -------------------------------------------------------
+ 
 
-def parse_docx(path: str):
+
+def parse_docx(path: str) -> Document:
     doc = docx.Document(path)
-    text = "\n".join([p.text for p in doc.paragraphs])
+    text = "\n".join(p.text for p in doc.paragraphs)
 
     metadata = base_metadata(path, "docx")
     metadata["language"] = detect_language(text)
@@ -87,11 +89,11 @@ def parse_docx(path: str):
     return Document(
         document_id=str(uuid.uuid4()),
         text=text,
-        metadata=metadata
+        metadata=metadata,
     )
 
 
-def parse_pdf(path: str):
+def parse_pdf(path: str) -> Document:
     reader = PdfReader(path)
     text = ""
 
@@ -104,17 +106,18 @@ def parse_pdf(path: str):
     return Document(
         document_id=str(uuid.uuid4()),
         text=text,
-        metadata=metadata
+        metadata=metadata,
     )
 
 
-def parse_csv(path: str):
+def parse_csv(path: str) -> List[Document]:
     df = pd.read_csv(path)
-
-    documents = []
+    documents: List[Document] = []
 
     for _, row in df.iterrows():
         sentence = row_to_sentence(row)
+        if not sentence:
+            continue
 
         metadata = base_metadata(path, "csv")
         metadata["language"] = "structured"
@@ -123,20 +126,21 @@ def parse_csv(path: str):
             Document(
                 document_id=str(uuid.uuid4()),
                 text=sentence,
-                metadata=metadata
+                metadata=metadata,
             )
         )
 
     return documents
 
 
-def parse_xlsx(path: str):
+def parse_xlsx(path: str) -> List[Document]:
     df = pd.read_excel(path)
-
-    documents = []
+    documents: List[Document] = []
 
     for _, row in df.iterrows():
         sentence = row_to_sentence(row)
+        if not sentence:
+            continue
 
         metadata = base_metadata(path, "xlsx")
         metadata["language"] = "structured"
@@ -145,14 +149,14 @@ def parse_xlsx(path: str):
             Document(
                 document_id=str(uuid.uuid4()),
                 text=sentence,
-                metadata=metadata
+                metadata=metadata,
             )
         )
 
     return documents
 
 
-def parse_json(path: str):
+def parse_json(path: str) -> Document:
     text = ""
 
     if path.endswith(".jsonl"):
@@ -170,11 +174,11 @@ def parse_json(path: str):
     return Document(
         document_id=str(uuid.uuid4()),
         text=text,
-        metadata=metadata
+        metadata=metadata,
     )
 
 
-def parse_eml(path: str):
+def parse_eml(path: str) -> Document:
     with open(path, "rb") as f:
         msg = BytesParser(policy=policy.default).parse(f)
 
@@ -183,6 +187,7 @@ def parse_eml(path: str):
     recipients = msg.get("to", "")
 
     body = ""
+
     if msg.is_multipart():
         for part in msg.walk():
             if part.get_content_type() == "text/plain":
@@ -190,7 +195,12 @@ def parse_eml(path: str):
     else:
         body = msg.get_content()
 
-    full_text = f"Subject: {subject}\nFrom: {sender}\nTo: {recipients}\n\n{body}"
+    full_text = (
+        f"Subject: {subject}\n"
+        f"From: {sender}\n"
+        f"To: {recipients}\n\n"
+        f"{body}"
+    )
 
     metadata = base_metadata(path, "eml")
     metadata["language"] = detect_language(full_text)
@@ -198,11 +208,11 @@ def parse_eml(path: str):
     return Document(
         document_id=str(uuid.uuid4()),
         text=full_text,
-        metadata=metadata
+        metadata=metadata,
     )
 
 
-def parse_txt(path: str):
+def parse_txt(path: str) -> Document:
     with open(path, "r", encoding="utf-8", errors="ignore") as f:
         text = f.read()
 
@@ -212,13 +222,14 @@ def parse_txt(path: str):
     return Document(
         document_id=str(uuid.uuid4()),
         text=text,
-        metadata=metadata
+        metadata=metadata,
     )
 
 
-# -------------------------------------------------------
+ 
 # Dispatcher
-# -------------------------------------------------------
+ 
+
 
 PARSERS = {
     ".docx": parse_docx,
@@ -232,15 +243,22 @@ PARSERS = {
 }
 
 
-def parse_file(path: str):
-    for ext, parser in PARSERS.items():
-        if path.endswith(ext):
-            return parser(path)
-    return None
+def parse_file(path: str) -> Union[Document, List[Document], None]:
+    ext = os.path.splitext(path)[1].lower()
+    parser = PARSERS.get(ext)
+
+    if parser is None:
+        return None
+
+    return parser(path)
 
 
-def load_documents(root_path: str):
-    documents = []
+def load_documents(root_path: str) -> List[Document]:
+    """
+    Recursively load and parse supported documents.
+    """
+
+    documents: List[Document] = []
 
     for root, _, files in os.walk(root_path):
         for file in files:
@@ -250,11 +268,8 @@ def load_documents(root_path: str):
             if parsed is None:
                 continue
 
-            # Handle single Document
             if isinstance(parsed, Document):
                 documents.append(parsed)
-
-            # Handle list of Documents (CSV/XLSX)
             elif isinstance(parsed, list):
                 documents.extend(parsed)
 
